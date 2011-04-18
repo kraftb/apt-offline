@@ -1,3 +1,9 @@
+apt-offline (1.1demo1) unstable; urgency=low
+
+  * New dummy release for MSRIT Mukthi Demo 
+
+ -- Ritesh Raj Sarraf <rrs@debian.org>  Mon, 18 Apr 2011 19:33:31 +0530
+
 apt-offline (1.1) unstable; urgency=low
 
   * New Bugfix Release (Closes: #593690, #615976) 
